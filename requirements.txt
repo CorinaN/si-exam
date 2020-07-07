@@ -36,8 +36,3 @@ six==1.15.0               # via cycler, python-dateutil
 sklearn
 
 pydot==1.0.2
-
-graphviz
-
-pygraphviz
-

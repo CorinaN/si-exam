@@ -41,3 +41,6 @@ graphviz
 
 pygraphviz
 
+pydot==1.0.2
+
+pomegranate
